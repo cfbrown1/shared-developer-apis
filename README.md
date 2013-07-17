@@ -5,4 +5,4 @@ A common repo of open source developer APIs used in our projects. For internal u
 
 *Installing PhoneGap/Cordova CLI*
 
-[Installation instructions](https://gist.github.com/outlast/ad1795c3ae64331f999d "Installation instructions")
+* [Installation instructions](https://gist.github.com/outlast/ad1795c3ae64331f999d "Installation instructions")
